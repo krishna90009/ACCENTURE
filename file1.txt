@@ -1,0 +1,5 @@
+This file for testing purpose
+a=10
+b=20
+echo " the sum of a and b"
+a+b=c
